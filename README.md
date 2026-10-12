@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="assets/berserk-banner.gif" width="100%" alt="Guts — Berserk">
 </p>
@@ -56,4 +55,3 @@ connecting to a server, and troubleshooting issues with AI assistance.
 <p align="center">
   <sub>STRUGGLE · LEARN · BUILD · REPEAT</sub>
 </p>
-```
